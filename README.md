@@ -1,5 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Covid-19 Tracker
+A simple React-based web application that tracks and displays up-to-date COVID-19 statistics worldwide. It fetches data from reliable sources and presents it in a clean, user-friendly interface.
+
+### Features
+- Displays global COVID-19 statistics: confirmed cases, deaths, recoveries.
+- Country-specific data view.
+- Responsive design using Material UI.
+- Real-time updates from official API sources.
+- Easy-to-navigate and clear interface.
+
+## Technologies Used
+- React
+- Material UI
+- COVID-19 API from Johns Hopkins University
+- JavaScript (ES6+)
+- Axios (for API calls)
+
 ## Available Scripts
 
 In the project directory, you can run:
